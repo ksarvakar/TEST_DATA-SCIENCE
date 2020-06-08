@@ -92,7 +92,7 @@
   <meta name="octolytics-dimension-user_id" content="11932986" /><meta name="octolytics-dimension-user_login" content="mGalarnyk" /><meta name="octolytics-dimension-repository_id" content="77424533" /><meta name="octolytics-dimension-repository_nwo" content="mGalarnyk/datasciencecoursera" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="77424533" /><meta name="octolytics-dimension-repository_network_root_nwo" content="mGalarnyk/datasciencecoursera" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/mGalarnyk/datasciencecoursera/blob/master/5_Reproducible_Research/project2/ReproducibleResearchProject2.md" data-pjax-transient>
+    
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -148,7 +148,7 @@
   aria-expanded="false"
 >
   <div class="position-relative">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="77424533" data-scoped-search-url="/mGalarnyk/datasciencecoursera/search" data-unscoped-search-url="/search" action="/mGalarnyk/datasciencecoursera/search" accept-charset="UTF-8" method="get">
+   
       <label class="form-control input-sm header-search-wrapper p-0 header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center js-chromeless-input-container">
         <input type="text"
           class="form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
