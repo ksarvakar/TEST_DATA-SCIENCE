@@ -1,7 +1,7 @@
 ---
 title: "Practical Machine Learning Course Project"
-author: "Mustafa Ozturk"
-date: "4/4/2019"
+author: "ketan"
+date: "9/6/2020"
 output: html_document
 ---
 
